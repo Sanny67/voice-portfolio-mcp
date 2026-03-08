@@ -1,0 +1,27 @@
+[
+  {
+    "symbol": "INFY.NS",
+    "quantity": 10,
+    "avg_price": 1500
+  },
+  {
+    "symbol": "TCS.NS",
+    "quantity": 5,
+    "avg_price": 3400
+  },
+  {
+    "symbol": "TATAMOTORS.NS",
+    "quantity": 12,
+    "avg_price": 500
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "quantity": 8,
+    "avg_price": 1550
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "quantity": 6,
+    "avg_price": 2500
+  }
+]
