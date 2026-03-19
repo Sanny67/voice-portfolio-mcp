@@ -6,7 +6,7 @@
 import { useState, useRef } from "react";
 import Chat from "../components/Chat";
 
-const API_BASE = "http://localhost:3001";
+const API_BASE = "http://localhost:8000";
 
 interface Holding {
   symbol: string;

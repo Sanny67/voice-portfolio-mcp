@@ -6,7 +6,7 @@
 import { useState, useRef, useEffect } from "react";
 import { VoiceInput, speak } from "./VoiceInput";
 
-const API_BASE = "http://localhost:3001";
+const API_BASE = "http://localhost:8000";
 
 interface Message {
   role: "user" | "assistant";
