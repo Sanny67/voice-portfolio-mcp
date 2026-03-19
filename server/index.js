@@ -70,7 +70,7 @@ app.post("/ask", async (req, res) => {
 });
 
 // ─── Start server ─────────────────────────────────────────────────────────────
-const PORT = process.env.PORT ?? 3001;
+const PORT = process.env.PORT ?? 8000;
 app.listen(PORT, () => {
   console.log(`✅ MCP Portfolio Server running on http://localhost:${PORT}`);
 });
